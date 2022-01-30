@@ -29,13 +29,11 @@ export class TasksService {
           if (!tasks) {
             return [];
           }
-          return Object.keys(tasks).map((key) => {
-            return {
-              ...tasks[+key],
-              id: key,
-              date: date.format('DD-MM-YYYY'),
-            };
-          });
+          return Object.entries(tasks).map((key) => ({
+            id: key[0],
+            title: key[1].title,
+            date: key[1].date,
+          }));
         })
       );
   }
