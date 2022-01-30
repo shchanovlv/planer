@@ -1,27 +1,11 @@
-# Planer
+Благодарю <b>Владилена Минина</b> https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
+Видео уроки
 
-## Development server
+# Angular 8 + RxJS. Приложение Органайзер С Нуля (Для Опытных!)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[![Angular 8 + RxJS. Приложение Органайзер С Нуля (Для Опытных!)](https://img.youtube.com/vi/NaZwVUHnmfE/0.jpg)](https://youtu.be/NaZwVUHnmfE)
 
-## Code scaffolding
+# Деплой NodeJS. Heroku (бесплатный хостинг)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![Деплой NodeJS. Heroku (бесплатный хостинг)](https://img.youtube.com/vi/wG7hX8Np1Pg/0.jpg)](https://youtu.be/wG7hX8Np1Pg)
